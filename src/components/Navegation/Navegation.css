@@ -1,0 +1,28 @@
+.navbar{
+    background-color: #344d67!important;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.tit-rick{
+    color:#6eccaf;
+    padding-left: 50px;
+}
+.btn-nav{
+    font-weight: 700;
+}
+.active{
+    background-color: #6eccaf;
+    color: #344d67!important;
+    border-radius: 10%;
+}
+.nav-link:hover{
+    background-color:#6eccaf;
+    color:#344d67!important;
+    border-radius: 10%;
+}
+.nav-boton{
+    gap:10px;
+}
+.navbar-nav{
+    align-items: center;
+}

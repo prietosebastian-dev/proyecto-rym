@@ -1,0 +1,19 @@
+.bg-home{
+    color: #344377;
+    background-color: rgb(245, 245, 245,0.9);
+    height: fit-content;
+    width: 600px;
+    margin: 5%;
+    padding: 45px;
+    box-sizing: border-box;
+    border-radius: 5%;
+}
+.nav-home{
+    gap:15px;
+}
+.bg-button{
+    color:#6eccaf;
+    font-weight: 500;
+    padding: 15px;
+    background-color: #344377!important;
+}

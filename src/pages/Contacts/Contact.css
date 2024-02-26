@@ -1,0 +1,11 @@
+.formContact{
+    background-color: rgba(92,117,146, 0.9);
+    padding: 30px;
+    margin:auto;
+}
+.btn-form{
+    width: fit-content;
+    color: white;
+    background-color: rgb(52, 77, 103);
+    border: none;
+}

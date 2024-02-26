@@ -1,0 +1,11 @@
+.descript{
+    color:white;
+    background-color: #223142!important;
+    border: 1px solid black;
+    padding:20px
+}
+.btn-descript{
+    color: #344d67;
+    background-color:#6eccaf;
+    align-self: end;
+}

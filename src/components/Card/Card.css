@@ -1,0 +1,10 @@
+.card{
+    color:#6eccaf;
+    width: fit-content;
+    background-color: #344d67;
+    text-align: center;
+}
+.btnPerson{
+    color:#344d67;
+    background-color: #6eccaf;
+}

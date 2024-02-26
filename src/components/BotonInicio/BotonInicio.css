@@ -1,0 +1,13 @@
+.btn-inicio{
+    background-color: #344d67;
+    text-align: center;
+    padding:15px;
+    color:#6eccaf;
+}
+.botones{
+    gap:15px;
+}
+.btn-inicio:hover{
+    background-color:#6eccaf;
+    color: #344d67;
+}
